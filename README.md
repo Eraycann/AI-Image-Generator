@@ -13,7 +13,7 @@ Check out the live demo [here](https://ai-image-generator-private.vercel.app).
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/ai-image-generator.git
+    git clone https://github.com/Eraycann/AI-Image-Generator
     ```
 
 2. Navigate to the project directory:
